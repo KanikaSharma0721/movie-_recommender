@@ -63,3 +63,30 @@ Returns top 5 similar movies
 .Demo mode for quick testing
 
 .Clean tabular output
+
+**How to Run**
+
+1. Install required libraries:
+
+pip install pandas scikit-learn
+
+2. Run the script:
+
+python sourcecode.py
+
+3. Choose mode:
+
+1 → Demo mode
+
+2 → Interactive mode
+
+
+ **Future Improvements**
+ 
+.Use full MovieLens dataset
+
+.Add ratings-based filtering
+
+.Improve recommendations with NLP
+
+.Build a web interface
